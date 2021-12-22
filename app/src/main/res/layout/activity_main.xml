@@ -44,7 +44,7 @@
         android:layout_height="@dimen/btn_height"
         android:backgroundTint="@color/white"
         android:text="@string/btn"
-        android:textColor="@color/background"
+        android:textColor="@color/teal_700"
         android:onClick="buttonSum"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
